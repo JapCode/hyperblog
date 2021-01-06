@@ -1,7 +1,7 @@
 body {
     font-family: "Arial";
     text-align: center;
-    color: blueviolet;
+    color: black;
     display: flex;
     margin: 0;
     padding: 0;
@@ -9,8 +9,32 @@ body {
 
 .container {
     border: 1px solid black;
-    padding: 1cm;
+    padding: 0;
     width: 70%;
     margin: 0 auto;
     text-align: left;
+} 
+.container h1 {
+    font-size: 1cm;
+    /* text-transform: capitalize; */
+}
+
+.cabecera {
+    color: white;
+    background-color: rgb(136, 31, 255);
+    margin: 0 auto;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 1cm;
+    
+}
+.post { 
+    padding: 0.5em;
+    margin: 0 auto;
+}
+.cabecera .tagline {
+    font-weight: normal;
+    padding: 0 0 0 2em;
+    font-size: 0.8em;
+
 }
