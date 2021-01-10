@@ -5,6 +5,7 @@ body {
     display: flex;
     margin: 0;
     padding: 0;
+    background-color: #00FFFF;
 }
 
 .container {
@@ -13,6 +14,7 @@ body {
     width: 70%;
     margin: 0 auto;
     text-align: left;
+    background-color: rgb(230, 238, 240);
 } 
 .container h1 {
     font-size: 1cm;
@@ -27,6 +29,11 @@ body {
     font-weight: bold;
     font-size: 1cm;
     
+}
+.logo {
+    width: 1cm;
+    height: 1cm;
+    vertical-align: middle;
 }
 .post { 
     padding: 0.5em;
