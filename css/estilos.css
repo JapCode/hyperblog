@@ -45,3 +45,8 @@ body {
     font-size: 0.8em;
 
 }
+.footer {
+   background-color: gray;
+   color: white;
+   text-align: right;
+}
