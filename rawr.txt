@@ -1,9 +1,5 @@
 esta es la historia de Alonso Paredes 
 
 nacido en en vezezuela maracaibo 
-<<<<<<< HEAD
-askjdfhakshf
-=======
-hola soy anita
->>>>>>> origin/footer
+hola soy anita, contribuyo a este proyecto oper source
 con 18 años de edas

@@ -5,7 +5,7 @@ body {
     display: flex;
     margin: 0;
     padding: 0;
-    background-color: #00FFFF;
+    background-color: white;
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
     width: 70%;
     margin: 0 auto;
     text-align: left;
-    background-color: rgb(230, 238, 240);
+    background-color: white;
 } 
 .container h1 {
     font-size: 1cm;
