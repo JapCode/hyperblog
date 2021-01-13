@@ -50,3 +50,11 @@ body {
    color: white;
    text-align: right;
 }
+.hero {
+    margin: auto;
+    height: 400px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
